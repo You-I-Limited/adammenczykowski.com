@@ -1,6 +1,7 @@
 <template>
-  <Wrapper>
-    <h1>Hello world</h1>
+  <Wrapper class="prose">
+    <h1>Latest posts</h1>
+    <ContentNavigation query="/blog" />
   </Wrapper>
 </template>
 

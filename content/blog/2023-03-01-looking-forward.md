@@ -26,7 +26,9 @@ I’m sure there is a lot that I do not know about! The act of building the prod
 
 I’m extremely hesitant to just dive in and immediately start building something. The countless hours of reading twitter and watching YouTube has taught me one thing (no, it isn’t that I  am good at procrastinating!) - It is crucial to validate ideas before working on them. So my starting point is to create a list of ideas, each with a small level of exploration. I may use a framework to scaffold out the initial concepts of each idea.
 
-Here is a rough outline of what I could aim to write down of each possible idea:
+---
+
+**Here is a rough outline of what I could aim to write down of each possible idea:**
 
 1. A one sentence summary of what the idea is - use a purely factual explanation here, nothing ‘catchy’
 2. A 2-3 paragraph introduction the the idea and its concepts
