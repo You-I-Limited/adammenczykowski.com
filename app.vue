@@ -1,5 +1,5 @@
 <template>
-  <div class="min-h-[100vh] bg-gray-100 pb-32">
+  <div class="min-h-[100vh] bg-gray-50 pb-32">
     <header class="fixed top-0 w-full bg-white px-4 py-8">
       <Wrapper>
         <h3 class="text-2xl">
