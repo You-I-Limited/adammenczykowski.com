@@ -3,9 +3,10 @@
     <header class="fixed top-0 w-full bg-white px-4 py-8">
       <Wrapper>
         <h3 class="text-2xl">Adam Menczykowski</h3>
+        <ContentNavigation />
       </Wrapper>
     </header>
-    <div class="mt-24">
+    <div class="pt-48">
       <NuxtPage/>
     </div>
   </div>
