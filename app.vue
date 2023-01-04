@@ -1,5 +1,5 @@
 <template>
-  <header>Adam Menczykowski</header>
+  <header class="text-3xl font-bold underline">Adam Menczykowski</header>
   <div>
     <NuxtPage />
   </div>
